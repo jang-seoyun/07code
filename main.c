@@ -1,3 +1,5 @@
+#include <studio.h>
+
 int main(void)
 {
     int flag = 1;
