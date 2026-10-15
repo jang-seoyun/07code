@@ -14,5 +14,5 @@ int main(void)
 int inc(int counter)
 {
     counter++;
-    return counter:
+    return counter;
 }
